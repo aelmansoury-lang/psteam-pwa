@@ -1,0 +1,24 @@
+{
+  "name": "PS Team App",
+  "short_name": "PS Team",
+  "description": "Professional visit management and team collaboration",
+  "start_url": "https://script.google.com/macros/s/AKfycbzKbVcdXXqAkf15lIP49CYtKid6IYS2zngE0JAYxRDWkIOj0RXr24iHCc1ZqCrEEuiX/exec",
+  "display": "standalone",
+  "background_color": "#F8FAFC",
+  "theme_color": "#5830C5",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "https://drive.google.com/uc?export=view&id=1OJjcDqhQY8Jl5n_rVBoKNWaqiougOvSI",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "https://drive.google.com/uc?export=view&id=15cm5o1EU1oZLtsTB_Pk9k4qMyGuV9KVK",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
